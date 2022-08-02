@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\bin\Debug\netcoreapp3.1\ZompareNumbers.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\ZompareNumbers\ZompareNumbers\obj\Debug\netcoreapp3.1\ZompareNumbers.pdb

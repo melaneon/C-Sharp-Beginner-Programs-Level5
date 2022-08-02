@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\SortOrder\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.pdb

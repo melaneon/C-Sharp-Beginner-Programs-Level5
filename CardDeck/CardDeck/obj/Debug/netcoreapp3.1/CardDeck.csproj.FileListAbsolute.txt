@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\bin\Debug\netcoreapp3.1\CardDeck.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab05\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 5\CardDeck\CardDeck\obj\Debug\netcoreapp3.1\CardDeck.pdb
